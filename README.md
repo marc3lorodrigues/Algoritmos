@@ -68,17 +68,70 @@ Quanto a sua classificação podemos definirmos como:
 
 ### Aritméticos:
 São operadores relacionados a expressões aritméticas que resultarão um tipo numérico.
+![Operadores Aritméticos](operadores.png "Operadores Aritméticos").
 
+### Lógicos:
+São operadores relacionados a expressões lógicas que resultarão um tipo lógico.
+![Operadores Lógicos](logicos.png "Operadores Lógicos").
+
+ 
+## Variáveis Indexadas
+É um conjunto de variáveis do mesmo tipo referenciadas pelo mesmo nome e acessadas individualmente pela sua posição dentro do conjunto. A referencia de identificação e referencia dos valores das variáveis é feita através de índices. Apesar de não existir restrição a utilização de três ou mais índices, é bem usual a utilização de Vetores (1 índice) ou Matrizes (2 índices).
+
+Forma de Acesso:
+Diferente das variáveis, as variáveis indexadas são acessadas através de um índice.
+
+ 
+
+Definição:
+VAR
+<NomeVariavel>: Conjunto[Numero de posições]
+
+
+##### Exemplo 1 - Manipulando um valor:
+```
+Algoritmo Programa1
+ 
+VAR
+    Salarios: Conjunto[10] real
+    Nomes:  Conjunto[10] literal
+Inicio
+    - Atribuindo um Valor:
+    Nomes[3] ß "José da Silva"
+
+    - Lendo  um Valor:
+    Leia Nomes[3] 
+
+    - Escrevendo um Valor:
+    Escreva Nomes[3]
+Fim
 ```
 
 
-### Lógicos:
-### Literais:
+##### Exemplo 2 - Manipulando um valor:
 
+```
+Algoritmo Programa2
+
+VAR
+Salarios: Conjunto[10] real
+i: Inteiro
+
+Inicio
+    Para i de 1 até 10 faça
+        Escreva "Entre com o salário para a posição", I
+        Leia Salario[i]
+    Fim Para
+
+    Para i de 1 até 10 faça
+        Escreva "O salario da posicao ", I, "é: "  Salario[i]
+    Fim Para
+Fim
+```
 
  
+
  
-## Variáveis Indexadas
 
 
  
