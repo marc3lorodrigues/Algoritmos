@@ -160,7 +160,7 @@ São as variáveis declaradas no próprio Subalgoritmos e só poderão ser utili
 São mecanismos de transferência de dados entre o algoritmo e o Subalgoritmos. Podem ser tipificados como: Valor ou Referencia.
 
 #### Referencia:
-* O valor passado sofre alteração.
+* Referência: O valor passado sofre alteração.
 * Valor: O valor passado não sofre alteração.
 
 
