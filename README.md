@@ -130,6 +130,54 @@ Fim
 ```
 
  
+## SubAlgoritmos
+Subalgoritmos são partes de um algoritmo que tem a finalidade de resolver parte de um problema de forma isolada. Devido a complexidade e tamanho de um algoritmo essa prática se faz necessário. A visibilidade dos subalgoritmos e variáveis é feita de fora para dentro sempre.
+
+Sintaxe:
+
+Algoritmo <Nome do algoritmo> </br>
+    VAR <Variáveis Globais> </br>
+    <Definição dos subalgoritmos> </br>
+    .... </br>
+    <Definição dos subalgoritmos> </br>
+
+Inicio </br>
+  <Definição do Algoritmo> </br>
+Fim </br>
+
+### Definição do Subalgoritmos:
+
+#### Nome 
+É o identificador pelo qual será invocado.
+
+#### Corpo 
+Contem as instruções a serem executadas.
+
+#### Variáveis
+São as variáveis declaradas no próprio Subalgoritmos e só poderão ser utilizadas no mesmo.
+
+#### Parâmetros 
+São mecanismos de transferência de dados entre o algoritmo e o Subalgoritmos. Podem ser tipificados como: Valor ou Referencia.
+
+#### Referencia:
+* O valor passado sofre alteração.
+* Valor: O valor passado não sofre alteração.
+
+
+### Tipos de Subalgoritmos:
+
+#### Função
+Implicitamente retornam um valor atribuído no Subalgoritmos.
+
+#### Procedimento
+Implicitamente não retornam um valor atribuído no Subalgoritmos.
+ 
+
+ 
+
+ 
+
+ 
 
  
 
