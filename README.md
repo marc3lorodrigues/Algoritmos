@@ -163,7 +163,6 @@ São mecanismos de transferência de dados entre o algoritmo e o Subalgoritmos. 
 * Referência: O valor passado sofre alteração.
 * Valor: O valor passado não sofre alteração.
 
-
 ### Tipos de Subalgoritmos:
 
 #### Função
@@ -171,6 +170,7 @@ Implicitamente retornam um valor atribuído no Subalgoritmos.
 
 #### Procedimento
 Implicitamente não retornam um valor atribuído no Subalgoritmos.
+
  
 
  
