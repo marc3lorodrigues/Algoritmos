@@ -171,21 +171,10 @@ Implicitamente retornam um valor atribuído no Subalgoritmos.
 #### Procedimento
 Implicitamente não retornam um valor atribuído no Subalgoritmos.
 
- 
 
- 
+</br>
+</br>
 
- 
-
- 
-
- 
-
-
- 
-
- 
-
- 
-
- 
+# Lista de Exercícios
+## Subalgoritmos
+[Exercícios de Subalgoritmos](ExerciciosSubalgoritmos.md) <br>
