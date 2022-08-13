@@ -177,4 +177,4 @@ Implicitamente não retornam um valor atribuído no Subalgoritmos.
 
 # Lista de Exercícios
 ## Subalgoritmos
-[Exercícios de Subalgoritmos](ExerciciosSubalgoritmos.md) <br>
+[Exercícios de Sub-algoritmos](ExerciciosSubalgoritmos.md) <br>
