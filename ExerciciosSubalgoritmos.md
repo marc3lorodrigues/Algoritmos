@@ -2,3 +2,4 @@
 
 ### 02 - Faça uma função que receba dois numeros positivos por parametro e retorne a soma dos N números inteiros existentes entre eles.
 
+### 03 - Faça uma funcao que transforme e mostre segundos em horas, minutos e segundos. Todas as variáveis devem ser passadas como parâmetro, nao havendo variaveis.
