@@ -10,14 +10,15 @@
 
 ### 06 - Faça um procedimento que leia cinco valores inteiros e retorne o maior e o menor deles.
 
-### 07 - Foi realizada uma pesquisa de algumas características físicas de cinco habitantes de uma certa região. De cada habitante foram coletados os seguintes dados: </br>
-A) sexo: M/F </br>
-B) Cor dos olhos: A - Azuis, C - Castanhos, V - Verdes.</br>
-C) Cor dos cabelos: L - Loiros, P - Pretos, C - Castanhos.</br>
-D) idade.</br>
+### 07 - Foi realizada uma pesquisa de algumas características físicas de cinco habitantes de uma certa região. De cada habitante foram coletados os seguintes dados:
+a) Sexo: M/F </br>
+b) Cor dos olhos: A - Azuis, C - Castanhos, V - Verdes.</br>
+c) Cor dos cabelos: L - Loiros, P - Pretos, C - Castanhos.</br>
+d) Idade.</br>
 
 * Faça uma função que leia esse dados em um vetor. Determine, por meio de outra função, a média de idade das pessoas com olhos castanhos e cabelos pretos. Mostre esse resultado no programa principal.
 * Faça uma função que determine e devolva ao programa principal a maior idade entre os habitantes.
 * Faça uma função que determine e devolva ao programa principal a quantidade de indivíduos do sexo feminino cuja idade está entre 18 e 35 (inclusive) e quem tenham olhos azuis e cabelos loiros.
 
+### 08 - faça uma função que receba, por parâmetro dois vetores de dez elementos inteiros positivos e mostre o vetor uniao dos dois primeiors.
 
