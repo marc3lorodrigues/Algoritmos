@@ -2,7 +2,7 @@
 
 ### 02 - Faça uma função que receba dois numeros positivos por parametro e retorne a soma dos N números inteiros existentes entre eles.
 
-### 03 - Faça uma funcao que transforme e mostre segundos em horas, minutos e segundos. Todas as variáveis devem ser passadas como parâmetro, nao havendo variaveis.
+### 03 - Faça uma função que transforme e mostre segundos em horas, minutos e segundos. Todas as variáveis devem ser passadas como parâmetro, nao havendo variáveis.
 
 ### 04 - Faça uma função que receba três números inteiros: a, b e c, onde A é maior que 1. A função deve somar todos os inteiros, entre b e c que sejam divisíveis por A e retornar o resultado para a funcão principal.
 
