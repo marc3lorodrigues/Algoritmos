@@ -9,3 +9,5 @@
 ### 05 - Faça um procedimento que receba três notas de um aluno como parametro e uma letra. Se a letra for A o procedimento calculara a media aritmética das notas do aluno, se for P o procedimento calcula a media ponderada com os pesos 5,3 e 2. A media calculada deve ser mostrada ao usuario.
 
 ### 06 - Faça um procedimento que leia cinco valores inteiros e retorne o maior e o menor deles.
+
+[teste] [https://github.com/marc3lorodrigues/Algoritmos/blob/main/Subrotinas.rar]
