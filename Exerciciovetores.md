@@ -8,11 +8,7 @@
 O primeiro vetor deve conter os números positivos. </br>
 O segundo vetor resultante deve conter os números negativos. </br>
 Cada vetores vai ter no mácio oito posicoes. Sendo que nem  todas devem obrigatoriamente se utilizada. </br>
-### 4. Faça um programa que carregue dois vetores, X e Y. com dez numeros inteiros cada um. Considere que os números de cada vetor digitado, nao podem estar repetivos. CAcule e mostre os seguntes vetores resultantes.
-* A soma dos vetores.
-* A diferença dos vetores.
-* A multiplicação dos vetores.
-* A divisão dos vetores.
+
 
 
 
