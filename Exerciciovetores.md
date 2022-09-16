@@ -8,6 +8,7 @@
 O primeiro vetor deve conter os números positivos. </br>
 O segundo vetor resultante deve conter os números negativos. </br>
 Cada vetores vai ter no mácio oito posicoes. Sendo que nem  todas devem obrigatoriamente se utilizada. </br>
+[Vetores](https://github.com/marc3lorodrigues/Algoritmos/blob/main/Vetores.rar)
 
 
 
